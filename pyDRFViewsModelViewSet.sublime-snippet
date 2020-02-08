@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+class ${1}ViewSet(ModelViewSet):
+    queryset = ${1}.objects.all();
+    serializer_class = ${1}Serializer
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mvs</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

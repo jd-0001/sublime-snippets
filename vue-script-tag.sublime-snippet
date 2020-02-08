@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<script>
+export default{
+
+}
+</script>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>vj</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

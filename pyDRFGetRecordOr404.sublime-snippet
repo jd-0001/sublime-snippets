@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+from rest_framework.status import HTTP_404_NOT_FOUND
+from rest_framework.response import Response
+
+try:
+    ${4:var_name} = ${1}.objects.get(${2})
+except ${1}.DoesNotExist:
+    return Response({"error": "${3}"}, status = HTTP_404_NOT_FOUND)
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>get/404</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

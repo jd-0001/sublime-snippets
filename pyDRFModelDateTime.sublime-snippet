@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+${1:created_date} = models.DateTimeField(${2:${3:auto_now_add=True}${4:, auto_now=True}})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>dt</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

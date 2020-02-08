@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"All Autocomplete",
+		"Anaconda",
+		"AutoFileName",
+		"AutoPEP8",
+		"Carbon",
+		"CodeFormatter",
+		"Color Highlight",
+		"Dracula Color Scheme",
+		"EditorConfig",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"Increment Selection",
+		"Jinja2",
+		"MarkdownLivePreview",
+		"MarkdownPreview",
+		"Multi Select Alphabetizer",
+		"MultiEditUtils",
+		"Package Control",
+		"Random Everything",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"StringUtilities",
+		"Stylus",
+		"SublimeCodeIntel",
+		"Terminal",
+		"Terminus",
+		"Vue Syntax Highlight"
+	]
+}
