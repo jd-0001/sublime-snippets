@@ -14,6 +14,10 @@
 
     { "keys": ["alt+w+0"], "command": "insert_snippet", "args": {"name": "Packages/User/common_insert_snippet_wrap_round_brackets.sublime-snippet"} },
 
+    { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
+    { "keys": ["ctrl+alt+t"], "command": "open_terminal_project_folder" },
+    { "keys": ["ctrl+alt+down"], "command": "add_next_line" }
+
     // Open a terminal view at current file directory
     // {
     //     "keys": ["alt+`"], "command": "terminus_open", "args": {

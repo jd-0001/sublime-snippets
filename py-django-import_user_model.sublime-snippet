@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+from django.contrib.auth import get_user_model
+User = get_user_model()
+]]></content>
+  <tabTrigger>iuser</tabTrigger>
+  <description>django user model</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope >source.python</scope >
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+from django.conf import settings
+]]></content>
+  <tabTrigger>isettings</tabTrigger>
+  <description>from django.conf import settings</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope >source.python</scope >
+</snippet>
