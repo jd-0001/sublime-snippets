@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+${1:const}${2:let} $3 = JSON.parse(JSON.stringify(${4:$SELECTION}))
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>oclone</tabTrigger>
+    <description>Object deep clone</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+</snippet>

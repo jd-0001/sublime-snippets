@@ -15,8 +15,19 @@
     { "keys": ["alt+w+0"], "command": "insert_snippet", "args": {"name": "Packages/User/common_insert_snippet_wrap_round_brackets.sublime-snippet"} },
 
     { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
-    { "keys": ["ctrl+alt+t"], "command": "open_terminal_project_folder" },
-    { "keys": ["ctrl+alt+down"], "command": "add_next_line" }
+    { "keys": ["ctrl+shift+alt+t"], "command": "open_terminal_project_folder" },
+    { "keys": ["alt+'"], "command": "toggle_quotes" },
+    { "keys": ["ctrl+shift+o"], "command": "prompt_open_file" },
+    { "keys": ["alt+c, alt+o"], "command": "insert_snippet", "args": {"name": "Packages/User/js-json-parse-stringify.sublime-snippet"} },
+
+
+    // Sublime text extras
+    { "keys": ["ctrl+alt+down"], "command": "add_next_line", "args": {"forward": true} },
+    { "keys": ["ctrl+alt+up"], "command": "add_next_line", "args": {"forward": false} },
+    { "keys": ["ctrl+alt+delete"], "command": "remove_blank_line_selections" },
+
+    // KeyboardNavigation
+    { "keys": ["ctrl+e"], "command": "expand_selection_to_quotes" },
 
     // Open a terminal view at current file directory
     // {

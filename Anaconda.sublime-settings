@@ -1,3 +1,5 @@
 {
-    "anaconda_linting": false
+    "anaconda_linting": false,
+    // "disable_anaconda_completion": true,
+    // "display_signatures": false
 }
