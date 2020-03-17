@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import app_conf from 'app/app.conf.json'
+]]></content>
+  <tabTrigger>iaconf</tabTrigger>
+  <description>Import appConf</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope >source.js</scope >
+</snippet>
