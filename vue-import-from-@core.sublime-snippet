@@ -1,19 +1,9 @@
 <snippet>
     <content><![CDATA[
-<template>
-  <div${1: class="$2"}>
-    ${3}
-  </div>
-</template>
-
-<script>
-export default {
-  data: () => ({})
-}
-</script>
+import ${1:{ $2 \}} from '@core/$3'
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>vt</tabTrigger>
+    <tabTrigger>icore</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>text.html</scope>
+    <scope>text.html.vue</scope>
 </snippet>
