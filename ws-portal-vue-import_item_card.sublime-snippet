@@ -1,9 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import ItemCard from 'src/components/custom/ItemCard.vue'
-]]></content>
-  <tabTrigger>iitemcard</tabTrigger>
-  <description>Import Item Card</description>
-  <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <scope >source.js</scope >
-</snippet>

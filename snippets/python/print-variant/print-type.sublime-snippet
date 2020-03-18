@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+print(f"$1: {type($1)}")
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>ptype</tabTrigger>
+    <descrition>print type</descrition>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

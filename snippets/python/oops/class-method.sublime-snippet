@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+def ${1}(self${2:, }):
+    ${3:return self.}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cm</tabTrigger>
+    <descrition>class method</descrition>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+/* eslint-enable ${1: }*/
+$2
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>lnte</tabTrigger>
+    <descrition>eslint enable rule</descrition>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+</snippet>

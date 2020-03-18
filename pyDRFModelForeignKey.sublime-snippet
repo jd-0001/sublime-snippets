@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-${1} = models.ForeignKey(${2}, ${3:related_name='${4}', }on_delete=models.CASCADE)
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>frk</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.python</scope>
-</snippet>

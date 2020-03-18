@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+// eslint-disable-next-line
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>lntdnl</tabTrigger>
+    <descrition>eslint disable next line</descrition>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+</snippet>

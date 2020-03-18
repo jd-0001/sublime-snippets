@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+this.\$store.getters${2:['$3']}${4:(${5:'$6'})}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>stg</tabTrigger>
+    <descrition>this.$store.getters</descrition>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html.vue</scope>
+</snippet>

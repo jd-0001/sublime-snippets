@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+this.\$router.push(${1:{ name: $2 }})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>rpush</tabTrigger>
+    <descrition>$router.push</descrition>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html.vue</scope>
+</snippet>
