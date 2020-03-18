@@ -1,0 +1,35 @@
+{
+    "folders":
+    [
+        {
+            "path": "/home/bapu/Projects/vue-starter"
+        }
+    ],
+    "settings":
+    {
+        "word_wrap": false,
+        "wrap_width": 120,
+
+        // Packages
+        "ESLint-Formatter": {
+            "format_on_save": true,
+            "format_on_save_extensions":
+            [
+                "js",
+                "jsx",
+                "es",
+                "es6",
+                "babel",
+                "vue"
+            ]
+        },
+        "js_prettier": {
+            "additional_cli_args":
+            {
+                "--config": ".prettierrc.json"
+            },
+            "auto_format_on_save": true,
+            "prettier_cli_path": "node_modules/prettier/bin-prettier.js"
+        }
+    }
+}

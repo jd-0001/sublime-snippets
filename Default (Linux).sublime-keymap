@@ -27,16 +27,7 @@
         "command": "run_macro_file",
         "args":
         {
-            "file": "Packages/User/HTML_self_close_tag.sublime-macro"
-        }
-    },
-
-    {
-        "keys": ["alt+w+0"],
-        "command": "insert_snippet",
-        "args":
-        {
-            "name": "Packages/User/common_insert_snippet_wrap_round_brackets.sublime-snippet"
+            "file": "Packages/User/macros/html/self-close-tag.sublime-macro"
         }
     },
 
@@ -55,14 +46,6 @@
     {
         "keys": ["ctrl+shift+o"],
         "command": "prompt_open_file"
-    },
-    {
-        "keys": ["alt+c, alt+o"],
-        "command": "insert_snippet",
-        "args":
-        {
-            "name": "Packages/User/js-json-parse-stringify.sublime-snippet"
-        }
     },
 
 
