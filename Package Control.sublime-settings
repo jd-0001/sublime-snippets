@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"0_package_control_loader"
 	],
 	"installed_packages":
 	[
@@ -11,7 +12,6 @@
 		"Anaconda",
 		"AutoFileName",
 		"AutoPEP8",
-		"Carbon",
 		"CodeFormatter",
 		"Color Highlight",
 		"Dracula Color Scheme",
@@ -19,12 +19,8 @@
 		"Emmet",
 		"Emoji",
 		"ESLint-Formatter",
-		"HTML-CSS-JS Prettify",
 		"Increment Selection",
-		"Jinja2",
 		"JsPrettier",
-		"MarkdownLivePreview",
-		"MarkdownPreview",
 		"Multi Select Alphabetizer",
 		"MultiEditUtils",
 		"Package Control",
@@ -35,10 +31,7 @@
 		"SideBarEnhancements",
 		"StringUtilities",
 		"Stylus",
-		"Stylus-Snippets",
 		"SublimeCodeIntel",
-		"Terminal",
-		"Terminus",
 		"Vue Syntax Highlight"
 	]
 }
