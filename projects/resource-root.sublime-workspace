@@ -519,34 +519,10 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/home/bapu/Projects/vue-starter/.docs/docs/development/template-customization.md",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
 	[
-		[
-			[
-				[
-					"Packages/Python/Python.sublime-build",
-					""
-				],
-				[
-					"Packages/Python/Python.sublime-build",
-					"Syntax Check"
-				]
-			],
-			[
-				"Packages/Python/Python.sublime-build",
-				""
-			]
-		]
 	],
 	"build_varint": "",
 	"command_palette":
@@ -787,10 +763,15 @@
 	},
 	"expanded_folders":
 	[
-		"/home/bapu/Projects/portal-name"
+		"/home/bapu/.config/sublime-text-3/Packages/User"
 	],
 	"file_history":
 	[
+		"/home/bapu/.config/sublime-text-3/Packages/User/projects/resource-root/resource-root.sublime-workspace",
+		"/home/bapu/.config/sublime-text-3/Packages/User/projects/portal/resource-root.sublime-project",
+		"/home/bapu/.config/sublime-text-3/Projects/vue-starter.sublime-project",
+		"/home/bapu/.config/sublime-text-3/Projects/portal.sublime-project",
+		"/home/bapu/.config/sublime-text-3/Packages/User/projects/vue-starter/vue-starter.sublime-project",
 		"/home/bapu/Projects/vue-starter/.docs/src/layouts/partials/Nav.vue",
 		"/home/bapu/Projects/vue-starter/.docs/docs/development/layouts.md",
 		"/home/bapu/Projects/vue-starter/.docs/docs/development/template-customization.md",
@@ -869,11 +850,8 @@
 		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/js/object-deep-clone.sublime-snippet",
 		"/home/bapu/Projects/vue-starter/src/main.js",
 		"/home/bapu/Projects/vue-starter/src/@core/components/app-tour/AppTour.vue",
-		"/home/bapu/.config/sublime-text-3/Packages/User/projects/vue-starter/vue-starter.sublime-project",
 		"/home/bapu/bin/subl-project",
-		"/home/bapu/.config/sublime-text-3/Projects/portal.sublime-project",
 		"/home/bapu/.config/sublime-text-3/Projects/vue-starter.sublime-workspace",
-		"/home/bapu/.config/sublime-text-3/Projects/vue-starter.sublime-project",
 		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/python/looping/for-loop-with-index.sublime-snippet",
 		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/python/string/decapitalize-string.sublime-snippet",
 		"/home/bapu/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
@@ -916,9 +894,7 @@
 		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/drf/pyDRFModelForeignKey.sublime-snippet",
 		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/drf/pyDRFGetRecordOr404.sublime-snippet",
 		"/home/bapu/Projects/portal-name/src/frontend/src/pages/edit/Edit.vue",
-		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/js/js-for-loop.sublime-snippet",
-		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/js/js-if-else-inline.sublime-snippet",
-		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/js/jsPromise.sublime-snippet"
+		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/js/js-for-loop.sublime-snippet"
 	],
 	"find":
 	{
@@ -929,28 +905,6 @@
 		"height": 133.0,
 		"where_history":
 		[
-			"/home/bapu/Projects/vue-starter/src/@core",
-			"/home/bapu/Projects/vue-starter/src",
-			"/home/bapu/Projects/vue-starter/src/@core/scss",
-			"/home/bapu/Projects/vue-starter/.docs",
-			"/home/bapu/Projects/vue-starter/.docs/src",
-			"/home/bapu/Projects/vue-starter/.docs",
-			"/home/bapu/Projects/vue-starter/.docs/src/assets/style",
-			"/home/bapu/Projects/vue-starter/.docs/src",
-			"/home/bapu/Projects/vue-starter/.docs/src/assets/style",
-			"/home/bapu/Projects/vue-starter/.docs/src",
-			"/home/bapu/Projects/vue-starter/.docs/src/assets/style",
-			"/home/bapu/Projects/vue-starter/.docs/src",
-			"/home/bapu/Projects/vue-starter/.docs/src/assets/style",
-			"/home/bapu/Projects/vue-starter/.docs/src",
-			"/home/bapu/Projects/vue-starter/.docs/src/assets/style",
-			"/home/bapu/Projects/vue-starter/.docs/src",
-			"/home/bapu/Projects/vue-starter/.docs/src/assets/style",
-			"/home/bapu/Projects/vue-starter/src/@core",
-			"/home/bapu/Projects/vue-starter/.docs/src",
-			"/home/bapu/Projects/vue-starter/.docs/src/components",
-			"/home/bapu/Projects/vue-starter/.docs/src",
-			"/home/bapu/Projects/vue-starter/.docs"
 		]
 	},
 	"find_state":
@@ -958,76 +912,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"-0.25",
-			"bootstrap-vue/src/index.scss",
-			"node_modules/bootstrap-vue/src/index.scss",
-			"variables/styles",
-			"//$",
-			"secondary",
-			"danger",
-			"27a671",
-			"editLink",
-			"edit this page on github",
-			"code",
-			"link:",
-			"/docs/",
-			"homefast",
-			"homefase",
-			"subtitle",
-			"(",
-			"for rendering",
-			"VerticalMenu",
-			"import",
-			"Path",
-			"/docs/",
-			"gridsome-develop.gif",
-			"/docs/",
-			"link: /docs/",
-			"/docs/",
-			"link: /docs",
-			"div",
-			"template",
-			"app-card",
-			"',\n",
-			"docsConfig",
-			"b-button",
-			"Button",
-			"button",
-			"primary",
-			"-button ",
-			"html",
-			"Jost",
-			"font:",
-			"font",
-			"112.5%/1.6",
-			"font-size",
-			"primary",
-			".btn",
-			"font-size",
-			"sidebar",
-			"gridsome-container",
-			"container",
-			"gridsome-container",
-			"max-width: 680px",
-			"section--inner",
-			"container-base",
-			".container-base",
-			"container",
-			"section--inner",
-			"container",
-			".sidebar",
-			"sidebar",
-			"@import \"~@/",
-			"@",
-			"@import",
-			"@/",
-			"slug",
-			"version",
-			"author",
-			"Contributor",
-			"contributor",
-			"template",
-			"vue-remark"
+			"portal"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1035,7 +920,6 @@
 		"regex": false,
 		"replace_history":
 		[
-			"gridsome-container"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -1046,41 +930,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/home/bapu/Projects/vue-starter/.docs/docs/development/template-customization.md",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"editorconfig": true,
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1115,20 +966,12 @@
 		]
 	},
 	"menu_visible": true,
-	"output.SublimeLinter":
-	{
-		"height": 114.0
-	},
-	"output.exec":
-	{
-		"height": 390.0
-	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
 	"pinned_build_system": "Packages/Python/Python.sublime-build",
-	"project": "/home/bapu/.config/sublime-text-3/Packages/User/projects/portal/resource-root.sublime-project",
+	"project": "sublime-dev/sublime-dev.sublime-project",
 	"replace":
 	{
 		"height": 46.0
