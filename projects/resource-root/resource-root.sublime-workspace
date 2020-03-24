@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"techNo",
+				"technology_slug\tabc"
+			],
+			[
+				"remove",
+				"remove_query\tabc"
+			],
+			[
+				"ItemTech",
+				"ItemTechnologyMapping\tclass"
+			],
+			[
+				"dir",
+				"difference\tfunction"
+			],
+			[
 				"back",
 				"background-color\t(_content.scss)"
 			],
@@ -498,22 +514,6 @@
 			[
 				"try",
 				"try\tTry/Except"
-			],
-			[
-				"property_value",
-				"property_value_type"
-			],
-			[
-				"property_valu",
-				"property_value_type\t(models.py)"
-			],
-			[
-				"cA",
-				"cAqua\tfunction"
-			],
-			[
-				"flex",
-				"flex-grow\tproperty"
 			]
 		]
 	},
@@ -523,6 +523,22 @@
 	"build_system": "",
 	"build_system_choices":
 	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
 	],
 	"build_varint": "",
 	"command_palette":
@@ -763,15 +779,14 @@
 	},
 	"expanded_folders":
 	[
-		"/home/bapu/.config/sublime-text-3/Packages/User"
+		"/home/bapu/Projects/portal-name"
 	],
 	"file_history":
 	[
-		"/home/bapu/.config/sublime-text-3/Packages/User/projects/resource-root/resource-root.sublime-workspace",
+		"/home/bapu/.config/sublime-text-3/Packages/User/projects/resource-root/resource-root.sublime-project",
 		"/home/bapu/.config/sublime-text-3/Packages/User/projects/portal/resource-root.sublime-project",
-		"/home/bapu/.config/sublime-text-3/Projects/vue-starter.sublime-project",
-		"/home/bapu/.config/sublime-text-3/Projects/portal.sublime-project",
-		"/home/bapu/.config/sublime-text-3/Packages/User/projects/vue-starter/vue-starter.sublime-project",
+		"/home/bapu/Projects/portal-name/src/frontend/src/App.vue",
+		"/home/bapu/Projects/portal-name/src/frontend/app.conf.json",
 		"/home/bapu/Projects/vue-starter/.docs/src/layouts/partials/Nav.vue",
 		"/home/bapu/Projects/vue-starter/.docs/docs/development/layouts.md",
 		"/home/bapu/Projects/vue-starter/.docs/docs/development/template-customization.md",
@@ -850,8 +865,11 @@
 		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/js/object-deep-clone.sublime-snippet",
 		"/home/bapu/Projects/vue-starter/src/main.js",
 		"/home/bapu/Projects/vue-starter/src/@core/components/app-tour/AppTour.vue",
+		"/home/bapu/.config/sublime-text-3/Packages/User/projects/vue-starter/vue-starter.sublime-project",
 		"/home/bapu/bin/subl-project",
+		"/home/bapu/.config/sublime-text-3/Projects/portal.sublime-project",
 		"/home/bapu/.config/sublime-text-3/Projects/vue-starter.sublime-workspace",
+		"/home/bapu/.config/sublime-text-3/Projects/vue-starter.sublime-project",
 		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/python/looping/for-loop-with-index.sublime-snippet",
 		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/python/string/decapitalize-string.sublime-snippet",
 		"/home/bapu/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
@@ -892,9 +910,7 @@
 		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/drf/pyDRFModelCharField.sublime-snippet",
 		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/drf/pyDRFModelDateTime.sublime-snippet",
 		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/drf/pyDRFModelForeignKey.sublime-snippet",
-		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/drf/pyDRFGetRecordOr404.sublime-snippet",
-		"/home/bapu/Projects/portal-name/src/frontend/src/pages/edit/Edit.vue",
-		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/js/js-for-loop.sublime-snippet"
+		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/drf/pyDRFGetRecordOr404.sublime-snippet"
 	],
 	"find":
 	{
@@ -912,7 +928,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"portal"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -966,12 +981,20 @@
 		]
 	},
 	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 114.0
+	},
+	"output.exec":
+	{
+		"height": 390.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
 	"pinned_build_system": "Packages/Python/Python.sublime-build",
-	"project": "sublime-dev/sublime-dev.sublime-project",
+	"project": "resource-root.sublime-project",
 	"replace":
 	{
 		"height": 46.0
@@ -1096,7 +1119,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 401.0,
+	"side_bar_width": 224.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

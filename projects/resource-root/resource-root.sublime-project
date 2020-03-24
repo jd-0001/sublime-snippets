@@ -1,17 +1,8 @@
 {
-    "build_systems":
-    [
-        {
-            "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
-            "name": "Anaconda Python Builder",
-            "selector": "source.python",
-            "shell_cmd": "\"python\" -u \"$file\""
-        }
-    ],
     "folders":
     [
         {
-            "path": "/home/bapu/Projects/vue-starter"
+            "path": "/home/bapu/Projects/portal-name"
         }
     ],
     "settings":
@@ -33,12 +24,10 @@
         {
             "additional_cli_args":
             {
-                "--config": ".prettierrc.json"
+                "--config": "src/frontend/.prettierrc.json"
             },
             "auto_format_on_save": true,
-            "prettier_cli_path": "node_modules/prettier/bin-prettier.js"
-        },
-        "word_wrap": false,
-        "wrap_width": 120
+            "prettier_cli_path": "src/frontend/node_modules/prettier/bin-prettier.js"
+        }
     }
 }

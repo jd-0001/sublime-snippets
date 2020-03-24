@@ -520,10 +520,11 @@
 	"buffers":
 	[
 		{
-			"file": "/home/bapu/bin/setup-portal-dev",
+			"file": "sublime.sublime-project",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 121,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -787,10 +788,13 @@
 	},
 	"expanded_folders":
 	[
-		"/home/bapu/Projects/portal-name"
+		"/home/bapu/.config/sublime-text-3/Packages/User",
+		"/home/bapu/.config/sublime-text-3/Packages/User/projects"
 	],
 	"file_history":
 	[
+		"/home/bapu/bin/setup-portal-dev",
+		"/home/bapu/.config/sublime-text-3/Packages/User/projects/sublime-dev/sublime-dev.sublime-project",
 		"/home/bapu/.config/sublime-text-3/Packages/User/projects/portal/resource-root.sublime-project",
 		"/home/bapu/.config/sublime-text-3/Projects/vue-starter.sublime-project",
 		"/home/bapu/.config/sublime-text-3/Projects/portal.sublime-project",
@@ -916,9 +920,7 @@
 		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/drf/pyDRFModelDateTime.sublime-snippet",
 		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/drf/pyDRFModelForeignKey.sublime-snippet",
 		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/drf/pyDRFGetRecordOr404.sublime-snippet",
-		"/home/bapu/Projects/portal-name/src/frontend/src/pages/edit/Edit.vue",
-		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/js/js-for-loop.sublime-snippet",
-		"/home/bapu/.config/sublime-text-3/Packages/User/snippets/js/js-if-else-inline.sublime-snippet"
+		"/home/bapu/Projects/portal-name/src/frontend/src/pages/edit/Edit.vue"
 	],
 	"find":
 	{
@@ -958,24 +960,24 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/home/bapu/bin/setup-portal-dev",
+					"file": "sublime.sublime-project",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 121,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								121,
+								121
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1031,7 +1033,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "Packages/Python/Python.sublime-build",
-	"project": "/home/bapu/.config/sublime-text-3/Packages/User/projects/portal/resource-root.sublime-project",
+	"project": "sublime.sublime-project",
 	"replace":
 	{
 		"height": 46.0
